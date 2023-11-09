@@ -1,1 +1,1 @@
-
+Anda akan membuat ringkasan dari sebuah dataset yang berisi teks menggunakan TFIDFVectorizer. Anda akan load dataset menjadi dataframe, ubah kolom “content” menjadi vector berdasarkan frekuensi dan bobot kata, tampilkan nama fitur dan nilai-nilai TFIDF dalam bentuk tabel atau matriks, dan berikan penjelasan tentang representasi output TFIDF. Output TFIDF menunjukkan seberapa penting atau spesifik suatu kata dalam suatu dokumen dibandingkan dengan dokumen lain dalam dataset.
